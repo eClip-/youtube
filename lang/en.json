@@ -1,6 +1,7 @@
 {
   "height": "Height",
   "width": "Width",
+  "video_size": "Video size",
   "video_id": "Video ID",
   "video_id_info": "You can find the video's id in the url next to <b>?v=</b>",
   "suggested_video": "Show suggested videos when the video finishes",

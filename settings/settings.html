@@ -9,18 +9,19 @@
     </div>
 </div>
 
-<div class="wrapper-md">
-    <slider
-            ng-model="settings.height"
-            ng-model-range="settings.width"
-            floor="100"
-            ceiling="3840"
-            step="100"
-            translate-fn="transFunc"
-            translate-range-fn="transRangeFunc"
-            translate-combined-fn="transCombinedFunc"
-            >
-    </slider>
+<div class="form-group">
+    <label class="col-sm-2 control-label">{{'video_size' | translate}}</label>
+
+    <div class="col-sm-5">
+        <input class="form-control"
+               ng-model="settings.width"
+               placeholder="{{'width' | translate}}">
+    </div>
+    <div class="col-sm-5">
+        <input class="form-control"
+               ng-model="settings.height"
+               placeholder="{{'height' | translate}}">
+    </div>
 </div>
 
 <div class="checkbox">

@@ -1,6 +1,7 @@
 {
   "height": "Höhe",
   "width": "Breite",
+  "video_size": "Videogröße",
   "video_id": "Video-ID",
   "video_id_info": "Die Video-ID findest du in der Adresszeile hinter <b>?v=</b>",
   "suggested_video": "Nach Ende des Videos vorgeschlagene Videos anzeigen",
