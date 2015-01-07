@@ -1,0 +1,10 @@
+{
+  "height": "Höhe",
+  "width": "Breite",
+  "video_id": "Video-ID",
+  "video_id_info": "Die Video-ID findest du in der Adresszeile hinter <b>?v=</b>",
+  "suggested_video": "Nach Ende des Videos vorgeschlagene Videos anzeigen",
+  "player_controls": "Player-Steuerelemente anzeigen",
+  "video_title_player_actions": "Videotitel und Player-Aktionen anzeigen",
+  "privacy_enhanced": "Erweiterten Datenschutzmodus aktivieren"
+}

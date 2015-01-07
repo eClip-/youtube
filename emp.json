@@ -1,0 +1,37 @@
+{
+  "name": {
+    "de": "Youtube Video",
+    "en": "Youtube Video"
+  },
+  "slug": "youtube-video",
+  "version": "x.y.z",
+  "description": {
+    "de": "Dieses Modul ermöglicht die Einbindung von Youtube-Videos.",
+    "en": "This module allows embedding Youtube videos."
+  },
+  "contributors": [
+    {
+      "name": "Maik Hummel",
+      "email": "maik@eclip.io"
+    },
+    {
+      "name": "Nico Axtmann",
+      "email": "nico@eclip.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eClip-/youtube.git"
+  },
+  "keywords": {
+    "de": [
+      "video",
+      "youtube"
+    ],
+    "en": [
+      "youtube",
+      "video"
+    ]
+  },
+  "author": "Maik Hummel <maik@eclip.io>"
+}

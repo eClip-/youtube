@@ -1,0 +1,10 @@
+{
+  "height": "Height",
+  "width": "Width",
+  "video_id": "Video ID",
+  "video_id_info": "You can find the video's id in the url next to <b>?v=</b>",
+  "suggested_video": "Show suggested videos when the video finishes",
+  "player_controls": "Show player controls",
+  "video_title_player_actions": "Show video title and player actions",
+  "privacy_enhanced": "Enable privacy-enhanced mode"
+}
