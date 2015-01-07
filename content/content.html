@@ -1,12 +1,6 @@
 <iframe width="{{settings.width}}"
         height="{{settings.height}}"
-        src="//www.youtube
-            {{(settings.privacy_enhanced ? '-nocookie' : ''}}
-            .com/embed/
-            {{settings.video_id}}?
-            {{settings.suggested_video ? '' : 'rel=0&amp;'}}
-            {{settings.player_controls ? '' : 'controls=0&amp;'}}
-            {{settings.video_title_player_actions ? '' : 'showinfo=0'}}"
+        src="{{youtube_url}}"
         frameborder="0"
         allowfullscreen>
 </iframe>
