@@ -1,6 +1,6 @@
 <iframe width="{{settings.width}}"
         height="{{settings.height}}"
-        ng-src="{{youtube_url}}"
+        ng-src="{{youtube_url | trustedSource}}"
         frameborder="0"
         allowfullscreen>
 </iframe>

@@ -1,4 +1,5 @@
 emp.$watch('settings', function (settings) {
+    console.log(settings);
     emp.youtube_url = '//www.youtube';
 
     if ('privacy_enhanced' in settings && settings.privacy_enhanced)
