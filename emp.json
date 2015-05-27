@@ -4,10 +4,10 @@
     "en": "Youtube Video"
   },
   "slug": "youtube-video",
-  "version": "x.y.z",
+  "version": "0.0.1",
   "description": {
     "de": "Dieses Modul ermöglicht die Einbindung von Youtube-Videos.",
-    "en": "This module allows embedding Youtube videos."
+    "en": "This module simply allows embedding Youtube videos."
   },
   "contributors": [
     {
